@@ -1,6 +1,6 @@
 # Trading Card Game
 
-go get /github.com/emreodabas/kata-tcg-golang/
+go get github.com/emreodabas/kata-tcg-golang/cmd
 
 go build cmd/tcg 
 
